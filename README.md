@@ -1,4 +1,4 @@
-# JS - Zajęcia #
+# JS - Zajęcia 12 - Zdarzenia
 
 ### Jak uruchomić?
 
