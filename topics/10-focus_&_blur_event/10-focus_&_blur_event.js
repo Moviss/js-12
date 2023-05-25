@@ -1,3 +1,7 @@
+"use strict";
+
+console.clear();
+
 const textInput = document.querySelector(".text-input");
 const setFocusBtn = document.querySelector('[data-action="set"]');
 const removeFocusBtn = document.querySelector('[data-action="remove"]');
