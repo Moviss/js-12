@@ -2,7 +2,7 @@
 
 console.clear();
 
-const form = document.querySelector(".form");
+const form = document.querySelector(".register-form");
 
 form.addEventListener("submit", handleSubmit);
 
